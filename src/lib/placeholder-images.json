@@ -1,0 +1,70 @@
+{
+  "placeholderImages": [
+    {
+      "id": "slider-1",
+      "description": "A vibrant collection of Lego bricks.",
+      "imageUrl": "https://images.unsplash.com/photo-1587654780291-39c9404d746b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxsZWdvJTIwYmxvY2tzfGVufDB8fHx8MTc2MTI4NjQxMXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "lego blocks"
+    },
+    {
+      "id": "slider-2",
+      "description": "A child playing with a toy car.",
+      "imageUrl": "https://images.unsplash.com/photo-1613536491198-a0afa1916b3b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHx0b3klMjBjYXJ8ZW58MHx8fHwxNzYxMjg2NDExfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "toy car"
+    },
+    {
+      "id": "slider-3",
+      "description": "A collection of colorful stuffed animals.",
+      "imageUrl": "https://images.unsplash.com/photo-1591926828257-2eefb8aa42fa?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxzdHVmZmVkJTIwYW5pbWFsc3xlbnwwfHx8fDE3NjEyODY0MTF8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "stuffed animals"
+    },
+    {
+      "id": "toy-1",
+      "description": "A colorful set of classic Lego bricks.",
+      "imageUrl": "https://images.unsplash.com/photo-1560961911-ba7ef651a56c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxsZWdvJTIwYnJpY2tzfGVufDB8fHx8MTc2MTI4NjQxMXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "lego bricks"
+    },
+    {
+      "id": "toy-2",
+      "description": "A sleek, red remote-controlled sports car.",
+      "imageUrl": "https://images.unsplash.com/photo-1727622738037-65923e2319d9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxyYyUyMGNhcnxlbnwwfHx8fDE3NjExOTkwNTJ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "rc car"
+    },
+    {
+      "id": "toy-3",
+      "description": "A friendly-looking teddy bear.",
+      "imageUrl": "https://images.unsplash.com/photo-1588090644556-14707d0e886a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHx0ZWRkeSUyMGJlYXJ8ZW58MHx8fHwxNzYxMjg2NDExfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "teddy bear"
+    },
+    {
+      "id": "toy-4",
+      "description": "A complete science experiment kit for kids.",
+      "imageUrl": "https://images.unsplash.com/photo-1627817471035-3333a9ece240?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxzY2llbmNlJTIwa2l0fGVufDB8fHx8MTc2MTI4NDExM3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "science kit"
+    },
+    {
+      "id": "toy-5",
+      "description": "A set of detailed action figures from a popular movie.",
+      "imageUrl": "https://images.unsplash.com/photo-1623040277749-1f241ff66a46?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxhY3Rpb24lMjBmaWd1cmVzfGVufDB8fHx8MTc2MTIzNTY2NXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "action figures"
+    },
+    {
+      "id": "toy-6",
+      "description": "A challenging 1000-piece jigsaw puzzle.",
+      "imageUrl": "https://images.unsplash.com/photo-1612611741189-a9b9eb01d515?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxqaWdzYXclMjBwdXp6bGV8ZW58MHx8fHwxNzYxMTgyMjgxfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "jigsaw puzzle"
+    },
+    {
+      "id": "not-found",
+      "description": "A broken toy robot.",
+      "imageUrl": "https://images.unsplash.com/photo-1589254065909-b7086229d08c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxicm9rZW4lMjByb2JvdHxlbnwwfHx8fDE3NjEyODY0MTF8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "broken robot"
+    },
+    {
+      "id": "default-user",
+      "description": "A generic avatar.",
+      "imageUrl": "https://images.unsplash.com/photo-1599566150163-29194dcaad36?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxhdmF0YXJ8ZW58MHx8fHwxNzYxMjYyNjg2fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "avatar"
+    }
+  ]
+}
