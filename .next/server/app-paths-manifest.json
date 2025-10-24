@@ -1,0 +1,10 @@
+{
+  "/page": "app/page.js",
+  "/my-toys/page": "app/my-toys/page.js",
+  "/_not-found/page": "app/_not-found/page.js",
+  "/forgot-password/page": "app/forgot-password/page.js",
+  "/profile/page": "app/profile/page.js",
+  "/toys/[id]/page": "app/toys/[id]/page.js",
+  "/register/page": "app/register/page.js",
+  "/login/page": "app/login/page.js"
+}
